@@ -1,0 +1,4 @@
+id,cost,category,name,brand,retail_price,department,sku,distribution_center_id
+1,200,T-Shirts,Cotton Tee,Nike,500,Clothing,TSH-001,1
+2,150,Jeans,Skinny Fit,Levis,1200,Clothing,JNS-003,2
+3,100,Shoes,Running Shoes,Puma,3000,Footwear,SHO-005,1

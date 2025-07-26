@@ -1,0 +1,5 @@
+id,first_name,last_name,email,age,gender,state,street_address,postal_code,city,country,latitude,longitude,traffic_source,created_at
+1,Sharoz,Ahmed,sharoz@example.com,22,Male,Andhra Pradesh,MG Road,520001,Vijayawada,India,16.5062,80.6480,Instagram,2024-04-01
+2,Priya,Sharma,priya@example.com,28,Female,Tamil Nadu,Anna Salai,600002,Chennai,India,13.0827,80.2707,Google Ads,2024-03-15
+3,Rahul,Verma,rahul@example.com,31,Male,Delhi,Rajpath,110001,New Delhi,India,28.6139,77.2090,Referral,2024-05-20
+
